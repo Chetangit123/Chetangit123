@@ -46,39 +46,14 @@ I focus on **real-world business logic**, **admin panels**, and **system design*
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postgres,redis,git,github,postman,linux,nginx,pm2,vscode" />
 </p>
 
----
-
-## 🚀 Live Projects (Deployed)
-
-### 🔹 **ICC Cricket Management System**
-🌍 Live: https://system.indorecricketclub.com  
-
-### 🔹 **Labour & Transport Booking Platform**
-🌍 Admin-controlled multi-role service booking system  
-
-### 🔹 **Vendor-Based Ecommerce Backend**
-🌍 Node.js + PostgreSQL + Redis (Raw SQL Architecture)
-
----
-
-## 📦 GitHub Projects (Repositories)
-
-### 🔹 **Vendor-Based Ecommerce Backend**
-🔗 GitHub: https://github.com/Chetangit123  
-
-### 🔹 **Labour Management System (Backend)**
-🔗 GitHub: https://github.com/Chetangit123  
-
-### 🔹 **REST API Boilerplate (Production Ready)**
-🔗 GitHub: https://github.com/Chetangit123  
 
 ---
 
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://www.linkedin.com/in/chetan-p-207714152/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:parmarchetan161@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
 ---
